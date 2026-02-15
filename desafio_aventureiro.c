@@ -67,7 +67,7 @@ int main(){
     scanf("%f", &pib2);
 
     printf("Quantidade de pontos turisticos? \n");
-    scanf("%d", &pontos_turisticos);
+    scanf("%d", &pontos_turisticos2);
 
     dens_populacional2 = (float)(populacao2 / area2);
 
