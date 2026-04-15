@@ -11,7 +11,13 @@ Linguagem-C---Faculdade/
  │    ├── 01_novato/
  │    ├── 02_intermediario/
  │    └── 03_mestre/
- └── Jogo_xadrez/
+ │
+ ├── Jogo_xadrez/
+ │    ├── 01_novato/
+ │    ├── 02_intermediario/
+ │    └── 03_mestre/
+ │
+ └── batalha_naval/
       ├── 01_novato/
       ├── 02_intermediario/
       └── 03_mestre/
@@ -27,9 +33,12 @@ Cada nível trabalha conceitos progressivos de lógica e estrutura.
 - Estruturas condicionais (if, else)  
 - Operadores aritméticos e relacionais  
 - Cálculo de indicadores (densidade populacional, PIB per capita, etc.)  
-- Estruturas de repetição (for, while, do-while)
-- Loops aninhados
-- Organização e clareza no código  
+- Estruturas de repetição (for, while, do-while)  
+- Loops aninhados  
+- Vetores  
+- Matrizes  
+- Uso de constantes com #define  
+- Organização e clareza no código 
 
 ---
 
